@@ -5,7 +5,7 @@
   </p>
 
   <p></p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nix,cs,go,html,css,sass,haskell,java,dotnet,linux,bash,godot,unity"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs,html,css,java,python,react"></a>
 
   <h3>links</h3>
   <a href="https://harryjarvis.netlify.app">website</a>
