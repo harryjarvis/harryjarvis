@@ -1,7 +1,7 @@
 <div>
   <h2>hi, i'm harry!</h2>
   <p>
-    junior software developer
+    MSc Computer Science student building full-stack, cloud and data-driven applications.
   </p>
 
   <p></p>
