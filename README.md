@@ -75,7 +75,7 @@ A Python data analysis project examining home advantage across five complete Pre
 - Built a reproducible data-analysis workflow
 - Presented findings through clear visualisations and documentation
 
-**Technologies:** Python, pandas, Matplotlib, Jupyter Notebook
+**Technologies:** Python, Pandas, Matplotlib, Jupyter Notebook
 
 ---
 
