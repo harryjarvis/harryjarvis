@@ -79,7 +79,7 @@ A Python data analysis project examining home advantage across five complete Pre
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/harryjarvis/portfolio)
+### 🌐 [Personal Portfolio](https://harryjarvis.me)
 
 An interactive personal portfolio inspired by retro desktop operating systems.
 
@@ -89,6 +89,8 @@ An interactive personal portfolio inspired by retro desktop operating systems.
 - Custom visual design and animations
 
 **Technologies:** React, TypeScript, Vite, CSS
+
+[Repository](https://github.com/harryjarvis/portfolio)
 
 ---
 
