@@ -77,6 +77,8 @@ A Python data analysis project examining home advantage across five complete Pre
 
 **Technologies:** Python, pandas, Matplotlib, Jupyter Notebook
 
+---
+
 ### 🌐 Personal Portfolio
 
 An interactive personal portfolio inspired by retro desktop operating systems.
