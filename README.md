@@ -50,7 +50,7 @@ A Java desktop application for managing PC component inventory through a graphic
 
 ---
 
-### 🎵 [Sonora](https://github.com/harryjarvis/music-streaming-platform) — Serverless Music Streaming Platform
+### 🎵 [Sonora — Serverless Music Streaming Platform](https://github.com/harryjarvis/music-streaming-platform)
 
 My MSc dissertation project exploring the implementation of a variable-bitrate music-streaming service using a serverless AWS architecture.
 
