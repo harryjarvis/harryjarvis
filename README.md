@@ -102,6 +102,8 @@ An interactive personal portfolio inspired by retro desktop operating systems.
 
 **Technologies:** JavaScript, HTML, CSS, Vite
 
+[Repository](https://github.com/harryjarvis/portfolio]
+
 ---
 
 ## Technical Skills
