@@ -94,6 +94,16 @@ An interactive personal portfolio inspired by retro desktop operating systems.
 
 ---
 
+### 🌐 [Personal Website/Portfolio](https://harryjarvis.me)
+
+- Custom minimalist design
+- Responsive and interactive
+- Showcases my projects, socials and hobbies
+
+**Technologies:** JavaScript, HTML, CSS, Vite
+
+---
+
 ## Technical Skills
 
 ### Languages
