@@ -6,7 +6,7 @@ I enjoy building practical applications that combine technical implementation wi
 
 ## Featured Projects
 
-### 🎬 Film Database RESTful Application
+### 🎬 [Film Database RESTful Application](https://github.com/harryjarvis/films-database)
 
 A full-stack film database application supporting the creation, retrieval, updating and deletion of film records.
 
@@ -36,7 +36,7 @@ A C# console application for storing GPS waypoints and creating editable routes 
 
 ---
 
-### 🖥️ PC Parts Stock Control System
+### 🖥️ [PC Parts Stock Control System](https://github.com/harryjarvis/pc-parts-stock-control)
 
 A Java desktop application for managing PC component inventory through a graphical user interface.
 
@@ -66,7 +66,7 @@ The system is designed to process uploaded audio into multiple AAC bitrate repre
 
 ---
 
-### ⚽ Premier League Home Advantage Analysis
+### ⚽ [Premier League Home Advantage Analysis](https://github.com/harryjarvis/epl-home-advantage-analysis)
 
 A Python data analysis project examining home advantage across five complete Premier League seasons and 1,900 matches.
 
@@ -79,7 +79,7 @@ A Python data analysis project examining home advantage across five complete Pre
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌐 [Personal Portfolio](https://github.com/harryjarvis/portfolio)
 
 An interactive personal portfolio inspired by retro desktop operating systems.
 
