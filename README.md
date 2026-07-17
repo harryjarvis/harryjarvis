@@ -79,7 +79,7 @@ A Python data analysis project examining home advantage across five complete Pre
 
 ---
 
-### 🌐 [Personal Portfolio](https://harryjarvis.me)
+### 🌐 [Windows 95 inspired desktop portfolio](https://github.com/harryjarvis/win95-webui)
 
 An interactive personal portfolio inspired by retro desktop operating systems.
 
@@ -90,7 +90,7 @@ An interactive personal portfolio inspired by retro desktop operating systems.
 
 **Technologies:** React, TypeScript, Vite, CSS
 
-[Repository](https://github.com/harryjarvis/portfolio)
+[View live frontend demo (WIP)](https://win95-portfolio.netlify.app/)
 
 ---
 
